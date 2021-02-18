@@ -2,7 +2,7 @@
 
 #include "MCUFRIEND_kbv.h"
 
-#include "utility/mcufriend_shield.h"
+#include "utility/mcufriend_serial.h"
 
 #define MIPI_DCS_REV1   (1<<0)
 #define AUTO_READINC    (1<<1)
