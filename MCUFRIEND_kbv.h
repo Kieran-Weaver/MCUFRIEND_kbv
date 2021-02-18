@@ -7,8 +7,6 @@
 #ifndef MCUFRIEND_KBV_H_
 #define MCUFRIEND_KBV_H_   300
 
-//#define USE_SERIAL
-
 #include "Adafruit_GFX.h"
 
 class MCUFRIEND_kbv : public Adafruit_GFX {
